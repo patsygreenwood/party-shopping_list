@@ -1,0 +1,7 @@
+Drinks:
+vodka
+wine
+beer
+juice
+coke
+ice
